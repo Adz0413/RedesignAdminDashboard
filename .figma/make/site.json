@@ -1,0 +1,10 @@
+{
+  "description": "Streamline your management tasks with an intuitive admin dashboard that enhances productivity and provides real-time insights for efficient decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
